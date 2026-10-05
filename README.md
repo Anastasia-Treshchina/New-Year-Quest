@@ -1,3 +1,6 @@
+[КВЕСТ](https://github.com/Anastasia-Treshchina/New-Year-Quest/wiki)
+
+
 # New-Year-Quest
 
 [Роль]
